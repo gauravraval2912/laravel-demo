@@ -1,0 +1,43 @@
+.tableActionBtn{
+	padding: 6px !important;
+	font-size: 12px !important;
+	line-height: 1.0 !important;
+	color: white !important;
+}
+
+.addSubCategoryFirstTextBox{
+	width: 80% !important;
+	float:left;
+}
+
+.addSubCategoryOtherTextBox{
+	margin-top: 5px;
+	width: 80% !important;
+	float:left;
+}
+
+.editBtn{
+	float: left;
+}
+
+.deleteBtn{
+	margin-left: 5px;
+}
+
+.addSubCategoryBtn{
+	padding: 12px !important;
+	font-size: 12px !important;
+	line-height: 1.0 !important;
+	color: white !important;
+	margin-top: 1px;
+	margin-left: 5px;
+}
+
+.removeSubCategoryBtn{
+	padding: 12px !important;
+	font-size: 12px !important;
+	line-height: 1.0 !important;
+	color: white !important;
+	margin-top: 5px;
+	margin-left: 5px;
+}
