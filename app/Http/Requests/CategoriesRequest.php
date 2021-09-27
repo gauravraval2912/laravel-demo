@@ -27,7 +27,7 @@ class CategoriesRequest extends FormRequest
 
         $rules = [
             'name'     => 'required',
-            'email'    => 'required|email|unique:users',
+            'email'    => 'required|email',
         ];
 
         if ($this->has('addform')) {
